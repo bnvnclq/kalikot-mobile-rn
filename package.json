@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
+    "android-release":"npx react-native build-android --mode=release",
+    "android-clean":"cd android && ./gradlew uninstallAll && ./gradlew clean && cd ..",
     "ios": "react-native run-ios --simulator='iPhone SE (3rd generation)'",
     "lint": "eslint .",
     "start": "react-native start",
