@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "kalikot_rnb.app"
-               BlueprintName = "kalikot_rnb"
-               ReferencedContainer = "container:kalikot_rnb.xcodeproj">
+               BuildableName = "kalikot.app"
+               BlueprintName = "kalikot"
+               ReferencedContainer = "container:kalikot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "kalikot_rnbTests.xctest"
-               BlueprintName = "kalikot_rnbTests"
-               ReferencedContainer = "container:kalikot_rnb.xcodeproj">
+               BuildableName = "kalikotTests.xctest"
+               BlueprintName = "kalikotTests"
+               ReferencedContainer = "container:kalikot.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "kalikot_rnb.app"
-            BlueprintName = "kalikot_rnb"
-            ReferencedContainer = "container:kalikot_rnb.xcodeproj">
+            BuildableName = "kalikot.app"
+            BlueprintName = "kalikot"
+            ReferencedContainer = "container:kalikot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "kalikot_rnb.app"
-            BlueprintName = "kalikot_rnb"
-            ReferencedContainer = "container:kalikot_rnb.xcodeproj">
+            BuildableName = "kalikot.app"
+            BlueprintName = "kalikot"
+            ReferencedContainer = "container:kalikot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface kalikot_rnbTests : XCTestCase
+@interface kalikotTests : XCTestCase
 
 @end
 
-@implementation kalikot_rnbTests
+@implementation kalikotTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

@@ -1,6 +1,6 @@
 {
-  "name": "kalikot_rnb",
-  "version": "0.0.1",
+  "name": "kalikot",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

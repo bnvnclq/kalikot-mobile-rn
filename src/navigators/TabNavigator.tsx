@@ -17,7 +17,6 @@ function renderBottomTab(props: any) {
 			navigationState={state}
 			safeAreaInsets={insets}
 			onTabPress={({ route, preventDefault }) => {
-				console.log('ROUTE IS', route);
 				const event = navigation.emit({
 					type: 'tabPress',
 					target: route.key,
@@ -35,7 +34,6 @@ function renderBottomTab(props: any) {
 			}}
 			renderIcon={({ route, focused, color }) => {
 				const { options } = descriptors[route.key];
-				console.log('options', descriptors);
 				if (options.tabBarIcon) {
 					return options.tabBarIcon({ focused, color, size: 24 });
 				}

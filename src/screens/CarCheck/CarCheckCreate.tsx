@@ -41,7 +41,6 @@ export default function CarCheckCreate({ navigation }: TabNavigatorProps) {
 				>
 					<Text variant="titleLarge">New Car Checklist</Text>
 				</View>
-				<Text variant="bodySmall">{objCarCheck.title}</Text>
 
 				<TextInput
 					label="Notes"
